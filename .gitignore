@@ -1,0 +1,16 @@
+.springBeans
+Thumbs.db
+.DS_Store
+.gradle
+gradle
+build
+bin
+target
+.classpath
+.project
+.settings
+.springBeans
+exploration
+*.iml
+*.ipr
+*.iws
